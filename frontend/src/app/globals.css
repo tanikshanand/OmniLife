@@ -1,0 +1,130 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light dark;
+}
+
+html.dark {
+  color-scheme: dark;
+}
+
+html:not(.dark) {
+  color-scheme: light;
+}
+
+html,
+body {
+  height: 100%;
+  height: 100dvh;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html.dark,
+html.dark body {
+  background-color: #000000 !important;
+  color: #ffffff;
+}
+
+html:not(.dark),
+html:not(.dark) body {
+  background-color: #f8fafc !important;
+  color: #0f172a;
+}
+
+body {
+  @apply antialiased;
+}
+
+html.dark body {
+  @apply bg-black text-white;
+  background-color: #000000 !important;
+  background-image:
+    radial-gradient(40rem 40rem at 15% -10%, rgba(255, 255, 255, 0.03), transparent 50%),
+    radial-gradient(35rem 35rem at 85% 5%, rgba(255, 255, 255, 0.02), transparent 50%),
+    radial-gradient(30rem 30rem at 50% 110%, rgba(255, 255, 255, 0.02), transparent 50%);
+  background-attachment: fixed;
+}
+
+html:not(.dark) body {
+  @apply bg-slate-50 text-slate-900;
+  background-color: #f8fafc !important;
+  background-image: none !important;
+}
+
+::selection {
+  @apply bg-slate-900/15 text-slate-900 dark:bg-white/20 dark:text-white;
+}
+
+@layer components {
+  .glass-card {
+    @apply rounded-2xl border border-slate-200/90 bg-white text-slate-900 shadow-sm transition-colors dark:border-neutral-800/90 dark:bg-[#0a0a0a] dark:text-white dark:shadow-card;
+  }
+
+  .glass-panel {
+    @apply rounded-xl border border-slate-200/80 bg-slate-50/90 text-slate-900 transition-colors dark:border-neutral-800/80 dark:bg-[#0f0f12] dark:text-neutral-100;
+  }
+
+  .input-base {
+    @apply w-full rounded-xl border border-slate-300 bg-white px-3.5 py-2.5 text-sm text-slate-900 placeholder:text-slate-400 transition focus:border-slate-900 focus:outline-none focus:ring-2 focus:ring-slate-900/10 dark:border-neutral-800 dark:bg-[#0a0a0a] dark:text-neutral-100 dark:placeholder:text-neutral-500 dark:focus:border-neutral-400 dark:focus:ring-white/10;
+  }
+
+  .label-base {
+    @apply mb-1.5 block text-xs font-semibold uppercase tracking-wider text-slate-700 dark:text-neutral-400;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-slate-950 via-slate-800 to-slate-600 bg-clip-text text-transparent dark:from-white dark:via-neutral-200 dark:to-neutral-400;
+  }
+}
+
+@layer utilities {
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: #cbd5e1 transparent;
+  }
+  html.dark .scrollbar-thin {
+    scrollbar-color: #27272a transparent;
+  }
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background-color: #cbd5e1;
+    border-radius: 9999px;
+  }
+  html.dark .scrollbar-thin::-webkit-scrollbar-thumb {
+    background-color: #27272a;
+  }
+}
+
+.hljs {
+  background: #09090b !important;
+  border: 1px solid #18181b;
+  border-radius: 0.75rem;
+  padding: 1rem !important;
+}
+
+html:not(.dark) .hljs {
+  background: #f8fafc !important;
+  border: 1px solid #e2e8f0;
+  color: #0f172a !important;
+}
+
+pre {
+  @apply my-3 overflow-x-auto rounded-xl border border-slate-200 bg-slate-50 p-0 dark:border-neutral-800 dark:bg-black;
+}
+
+code {
+  @apply text-[0.85em];
+}

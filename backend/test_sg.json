@@ -1,0 +1,1933 @@
+{
+  "nodes": [
+    {
+      "id": "goal_9d04d37c_authentic_utility",
+      "name": "Authentic utility",
+      "label": "Goal",
+      "val": 15,
+      "color": "#06b6d4",
+      "properties": {
+        "title": "Authentic utility",
+        "status": "ACTIVE",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "prj_9d04d37c_hackmait_robotics",
+      "name": "HackMAIT Robotics",
+      "label": "Project",
+      "val": 16,
+      "color": "#f59e0b",
+      "properties": {
+        "title": "HackMAIT Robotics",
+        "description": "Autonomous robotics project using ROS and Python. First place at HackMAIT 2026.",
+        "status": "Completed",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "prj_9d04d37c_responsive_full_stack_applications",
+      "name": "Responsive full-stack applications",
+      "label": "Project",
+      "val": 16,
+      "color": "#f59e0b",
+      "properties": {
+        "title": "Responsive full-stack applications",
+        "description": "Intermediate",
+        "status": "Active",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "skl_python",
+      "name": "Python",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "python",
+        "category": "Language",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_c",
+      "name": "C++",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "c++",
+        "category": "Language",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "name": "Taniksh Anand",
+      "label": "User",
+      "val": 22,
+      "color": "#6366f1",
+      "properties": {
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732",
+        "email": "demo@omnilife.ai"
+      }
+    },
+    {
+      "id": "skl_triton_inference_server",
+      "name": "Triton Inference Server",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "triton inference server",
+        "category": "ML/AI"
+      }
+    },
+    {
+      "id": "goal_1f1fba3a-a079-4694-850b-5cf931063427",
+      "name": "improve the project omnilife",
+      "label": "Goal",
+      "val": 15,
+      "color": "#06b6d4",
+      "properties": {
+        "title": "improve the project omnilife",
+        "status": "ACTIVE",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "goal_9d04d37c_this_research_is_to_architect",
+      "name": "This research is to architect",
+      "label": "Goal",
+      "val": 15,
+      "color": "#06b6d4",
+      "properties": {
+        "title": "This research is to architect",
+        "status": "ACTIVE",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "skl_flask",
+      "name": "Flask",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "flask",
+        "category": "Framework",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_pytorch",
+      "name": "PyTorch",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "pytorch",
+        "category": "ML/AI",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "prj_9d04d37c_with_next",
+      "name": "With Next",
+      "label": "Project",
+      "val": 16,
+      "color": "#f59e0b",
+      "properties": {
+        "title": "With Next",
+        "description": "Intermediate",
+        "status": "Active",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "skl_nlp",
+      "name": "NLP",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "nlp",
+        "category": "ML/AI",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_rust",
+      "name": "Rust",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "rust",
+        "category": "Language",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_javascript",
+      "name": "JavaScript",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "javascript",
+        "category": "Language",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_fastapi",
+      "name": "FastAPI",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "fastapi",
+        "category": "Framework",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_machine_learning",
+      "name": "Machine Learning",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "machine learning",
+        "category": "Topic",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_rag",
+      "name": "RAG",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "rag",
+        "category": "ML/AI",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_postgresql",
+      "name": "PostgreSQL",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "postgresql",
+        "category": "Database",
+        "proficiency": "Advanced"
+      }
+    },
+    {
+      "id": "prj_9d04d37c_react",
+      "name": "React",
+      "label": "Project",
+      "val": 16,
+      "color": "#f59e0b",
+      "properties": {
+        "title": "React",
+        "description": "Intermediate",
+        "status": "Active",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "skl_llms",
+      "name": "LLMs",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "llms",
+        "category": "ML/AI",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_communication",
+      "name": "Communication",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "communication",
+        "category": "Soft Skill",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_node_js",
+      "name": "Node.js",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "node.js",
+        "category": "Framework",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_transformers",
+      "name": "Transformers",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "transformers",
+        "category": "ML/AI",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "prj_9d04d37c_statically_typed_programming_language",
+      "name": "Statically typed programming language",
+      "label": "Project",
+      "val": 16,
+      "color": "#f59e0b",
+      "properties": {
+        "title": "Statically typed programming language",
+        "description": "Intermediate",
+        "status": "Active",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "skl_react",
+      "name": "React",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "react",
+        "category": "Framework",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_docker",
+      "name": "Docker",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "docker",
+        "category": "DevOps",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_next_js",
+      "name": "Next.js",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "next.js",
+        "category": "Framework",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_microservices",
+      "name": "Microservices",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "microservices",
+        "category": "Topic",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_sql",
+      "name": "SQL",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "sql",
+        "category": "Language",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_vector_databases",
+      "name": "Vector Databases",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "vector databases",
+        "category": "ML/AI",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "prj_9d04d37c_omnilife",
+      "name": "OmniLife",
+      "label": "Project",
+      "val": 16,
+      "color": "#f59e0b",
+      "properties": {
+        "title": "OmniLife",
+        "description": "AI digital twin with hybrid GraphRAG memory and interactive knowledge graph.",
+        "status": "Active",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "skl_typescript",
+      "name": "TypeScript",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "typescript",
+        "category": "Language",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_neo4j",
+      "name": "Neo4j",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "neo4j",
+        "category": "Database",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_tensorflow",
+      "name": "TensorFlow",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "tensorflow",
+        "category": "ML/AI",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "prj_9d04d37c_on_hybrid_graphrag",
+      "name": "On Hybrid GraphRAG",
+      "label": "Project",
+      "val": 16,
+      "color": "#f59e0b",
+      "properties": {
+        "title": "On Hybrid GraphRAG",
+        "description": "Intermediate",
+        "status": "Active",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "name": "Database exploration platform supporting schema visualization",
+      "label": "Project",
+      "val": 16,
+      "color": "#f59e0b",
+      "properties": {
+        "title": "Database exploration platform supporting schema visualization",
+        "description": "Intermediate",
+        "status": "Active",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "prj_9d04d37c_modular_compiler",
+      "name": "Modular compiler",
+      "label": "Project",
+      "val": 16,
+      "color": "#f59e0b",
+      "properties": {
+        "title": "Modular compiler",
+        "description": "Intermediate",
+        "status": "Active",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "skl_ros",
+      "name": "ROS",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "ros",
+        "category": "Framework"
+      }
+    },
+    {
+      "id": "skl_distributed_systems",
+      "name": "Distributed Systems",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "distributed systems",
+        "category": "Topic",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "prj_9d04d37c_by_you",
+      "name": "By you",
+      "label": "Project",
+      "val": 16,
+      "color": "#f59e0b",
+      "properties": {
+        "title": "By you",
+        "description": "Intermediate",
+        "status": "Active",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "goal_f91c7602-567e-4f95-8c86-1b783e265c0e",
+      "name": "Land AI Systems Engineer Role",
+      "label": "Goal",
+      "val": 15,
+      "color": "#06b6d4",
+      "properties": {
+        "title": "Land AI Systems Engineer Role",
+        "target_date": "2027-01-01",
+        "status": "ACTIVE",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "skl_api_design",
+      "name": "API Design",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "api design",
+        "category": "Topic",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "skl_chromadb",
+      "name": "ChromaDB",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "chromadb",
+        "category": "ML/AI",
+        "proficiency": "Intermediate"
+      }
+    },
+    {
+      "id": "prj_9d04d37c_to_provide",
+      "name": "To provide",
+      "label": "Project",
+      "val": 16,
+      "color": "#f59e0b",
+      "properties": {
+        "title": "To provide",
+        "description": "Intermediate",
+        "status": "Active",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "goal_9d04d37c_an_autonomous_chat_action_engine_capable_of_interpreting_natural_language_instru",
+      "name": "An autonomous Chat Action Engine capable of interpreting natural-language instru",
+      "label": "Goal",
+      "val": 15,
+      "color": "#06b6d4",
+      "properties": {
+        "title": "An autonomous Chat Action Engine capable of interpreting natural-language instru",
+        "status": "ACTIVE",
+        "user_id": "9d04d37c-c1a0-4002-96ab-960b81510732"
+      }
+    },
+    {
+      "id": "skl_kubernetes",
+      "name": "Kubernetes",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "kubernetes",
+        "category": "DevOps"
+      }
+    },
+    {
+      "id": "skl_java",
+      "name": "Java",
+      "label": "Skill",
+      "val": 11,
+      "color": "#10b981",
+      "properties": {
+        "normalized_name": "java",
+        "category": "Language",
+        "proficiency": "Intermediate"
+      }
+    }
+  ],
+  "links": [
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_python",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Language"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_fastapi",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Framework"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_docker",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "DevOps"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_pytorch",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "ML/AI"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_postgresql",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Advanced",
+        "category": "Database"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_neo4j",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Database"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_typescript",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Intermediate",
+        "category": "Language"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_next_js",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Framework"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_chromadb",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "ML/AI"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "prj_9d04d37c_omnilife",
+      "label": "OWNS_PROJECT",
+      "properties": {}
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "prj_9d04d37c_hackmait_robotics",
+      "label": "OWNS_PROJECT",
+      "properties": {}
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "goal_f91c7602-567e-4f95-8c86-1b783e265c0e",
+      "label": "PURSUES_GOAL",
+      "properties": {}
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "goal_1f1fba3a-a079-4694-850b-5cf931063427",
+      "label": "PURSUES_GOAL",
+      "properties": {}
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_react",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Intermediate",
+        "category": "Framework"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_transformers",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "ML/AI"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_llms",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "ML/AI"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_rag",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "ML/AI"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_nlp",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "ML/AI"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_vector_databases",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "ML/AI"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_communication",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Soft Skill"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "prj_9d04d37c_with_next",
+      "label": "OWNS_PROJECT",
+      "properties": {}
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "prj_9d04d37c_on_hybrid_graphrag",
+      "label": "OWNS_PROJECT",
+      "properties": {}
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "goal_9d04d37c_this_research_is_to_architect",
+      "label": "PURSUES_GOAL",
+      "properties": {}
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "goal_9d04d37c_authentic_utility",
+      "label": "PURSUES_GOAL",
+      "properties": {}
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "goal_9d04d37c_an_autonomous_chat_action_engine_capable_of_interpreting_natural_language_instru",
+      "label": "PURSUES_GOAL",
+      "properties": {}
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_java",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Language"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_c",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Language"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_javascript",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Language"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_sql",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Language"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_rust",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Language"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_flask",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Framework"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_node_js",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Framework"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_tensorflow",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "ML/AI"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_machine_learning",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Topic"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_distributed_systems",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Topic"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_microservices",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Topic"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "skl_api_design",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document",
+        "category": "Topic"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "prj_9d04d37c_responsive_full_stack_applications",
+      "label": "OWNS_PROJECT",
+      "properties": {}
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "prj_9d04d37c_statically_typed_programming_language",
+      "label": "OWNS_PROJECT",
+      "properties": {}
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "prj_9d04d37c_modular_compiler",
+      "label": "OWNS_PROJECT",
+      "properties": {}
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "label": "OWNS_PROJECT",
+      "properties": {}
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "prj_9d04d37c_react",
+      "label": "OWNS_PROJECT",
+      "properties": {}
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "prj_9d04d37c_react",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Mentioned in document"
+      }
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "prj_9d04d37c_to_provide",
+      "label": "OWNS_PROJECT",
+      "properties": {}
+    },
+    {
+      "source": "usr_9d04d37c-c1a0-4002-96ab-960b81510732",
+      "target": "prj_9d04d37c_by_you",
+      "label": "OWNS_PROJECT",
+      "properties": {}
+    },
+    {
+      "source": "prj_9d04d37c_omnilife",
+      "target": "skl_python",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_omnilife",
+      "target": "skl_fastapi",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_omnilife",
+      "target": "skl_neo4j",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_omnilife",
+      "target": "skl_chromadb",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_omnilife",
+      "target": "skl_next_js",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_omnilife",
+      "target": "skl_docker",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_hackmait_robotics",
+      "target": "skl_python",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_hackmait_robotics",
+      "target": "skl_ros",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "goal_f91c7602-567e-4f95-8c86-1b783e265c0e",
+      "target": "skl_triton_inference_server",
+      "label": "REQUIRES_SKILL",
+      "properties": {
+        "priority": "High"
+      }
+    },
+    {
+      "source": "goal_f91c7602-567e-4f95-8c86-1b783e265c0e",
+      "target": "skl_kubernetes",
+      "label": "REQUIRES_SKILL",
+      "properties": {
+        "priority": "High"
+      }
+    },
+    {
+      "source": "goal_f91c7602-567e-4f95-8c86-1b783e265c0e",
+      "target": "skl_distributed_systems",
+      "label": "REQUIRES_SKILL",
+      "properties": {
+        "priority": "High"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_with_next",
+      "target": "skl_python",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_with_next",
+      "target": "skl_react",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_with_next",
+      "target": "skl_next_js",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_with_next",
+      "target": "skl_fastapi",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_with_next",
+      "target": "skl_transformers",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_with_next",
+      "target": "skl_llms",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_with_next",
+      "target": "skl_rag",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_with_next",
+      "target": "skl_nlp",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_with_next",
+      "target": "skl_neo4j",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_with_next",
+      "target": "skl_chromadb",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_with_next",
+      "target": "skl_vector_databases",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_with_next",
+      "target": "skl_communication",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_with_next",
+      "target": "goal_9d04d37c_this_research_is_to_architect",
+      "label": "ADVANCES",
+      "properties": {
+        "details": "Project contributes to stated goal"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_with_next",
+      "target": "goal_9d04d37c_authentic_utility",
+      "label": "ADVANCES",
+      "properties": {
+        "details": "Project contributes to stated goal"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_with_next",
+      "target": "goal_9d04d37c_an_autonomous_chat_action_engine_capable_of_interpreting_natural_language_instru",
+      "label": "ADVANCES",
+      "properties": {
+        "details": "Project contributes to stated goal"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_on_hybrid_graphrag",
+      "target": "skl_python",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_on_hybrid_graphrag",
+      "target": "skl_react",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_on_hybrid_graphrag",
+      "target": "skl_next_js",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_on_hybrid_graphrag",
+      "target": "skl_fastapi",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_on_hybrid_graphrag",
+      "target": "skl_transformers",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_on_hybrid_graphrag",
+      "target": "skl_llms",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_on_hybrid_graphrag",
+      "target": "skl_rag",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_on_hybrid_graphrag",
+      "target": "skl_nlp",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_on_hybrid_graphrag",
+      "target": "skl_neo4j",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_on_hybrid_graphrag",
+      "target": "skl_chromadb",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_on_hybrid_graphrag",
+      "target": "skl_vector_databases",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_on_hybrid_graphrag",
+      "target": "skl_communication",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_on_hybrid_graphrag",
+      "target": "goal_9d04d37c_this_research_is_to_architect",
+      "label": "ADVANCES",
+      "properties": {
+        "details": "Project contributes to stated goal"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_on_hybrid_graphrag",
+      "target": "goal_9d04d37c_authentic_utility",
+      "label": "ADVANCES",
+      "properties": {
+        "details": "Project contributes to stated goal"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_on_hybrid_graphrag",
+      "target": "goal_9d04d37c_an_autonomous_chat_action_engine_capable_of_interpreting_natural_language_instru",
+      "label": "ADVANCES",
+      "properties": {
+        "details": "Project contributes to stated goal"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "skl_python",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "skl_java",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "skl_c",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "skl_javascript",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "skl_sql",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "skl_rust",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "prj_9d04d37c_react",
+      "label": "USED_IN",
+      "properties": {
+        "details": "Used together in described work"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "skl_flask",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "skl_node_js",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "skl_pytorch",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "skl_tensorflow",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "skl_machine_learning",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "skl_docker",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "skl_distributed_systems",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "skl_microservices",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_responsive_full_stack_applications",
+      "target": "skl_api_design",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "skl_python",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "skl_java",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "skl_c",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "skl_javascript",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "skl_sql",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "skl_rust",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "prj_9d04d37c_react",
+      "label": "USED_IN",
+      "properties": {
+        "details": "Used together in described work"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "skl_flask",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "skl_node_js",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "skl_pytorch",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "skl_tensorflow",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "skl_machine_learning",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "skl_docker",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "skl_distributed_systems",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "skl_microservices",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_statically_typed_programming_language",
+      "target": "skl_api_design",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "skl_python",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "skl_java",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "skl_c",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "skl_javascript",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "skl_sql",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "skl_rust",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "prj_9d04d37c_react",
+      "label": "USED_IN",
+      "properties": {
+        "details": "Used together in described work"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "skl_flask",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "skl_node_js",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "skl_pytorch",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "skl_tensorflow",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "skl_machine_learning",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "skl_docker",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "skl_distributed_systems",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "skl_microservices",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_modular_compiler",
+      "target": "skl_api_design",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "skl_python",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "skl_java",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "skl_c",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "skl_javascript",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "skl_sql",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "skl_rust",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "prj_9d04d37c_react",
+      "label": "USED_IN",
+      "properties": {
+        "details": "Used together in described work"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "skl_flask",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "skl_node_js",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "skl_pytorch",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "skl_tensorflow",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "skl_machine_learning",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "skl_docker",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "skl_distributed_systems",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "skl_microservices",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_database_exploration_platform_supporting_schema_visualization",
+      "target": "skl_api_design",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "skl_python",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "skl_java",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "skl_c",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "skl_javascript",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "skl_sql",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "skl_rust",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "prj_9d04d37c_react",
+      "label": "USED_IN",
+      "properties": {
+        "details": "Used together in described work"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "skl_flask",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "skl_node_js",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "skl_pytorch",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "skl_tensorflow",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "skl_machine_learning",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "skl_docker",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "skl_distributed_systems",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "skl_microservices",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_react",
+      "target": "skl_api_design",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_to_provide",
+      "target": "skl_communication",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    },
+    {
+      "source": "prj_9d04d37c_by_you",
+      "target": "skl_communication",
+      "label": "UTILIZES",
+      "properties": {
+        "significance": "Core"
+      }
+    }
+  ],
+  "meta": {
+    "source": "fallback"
+  }
+}

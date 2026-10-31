@@ -1,0 +1,197 @@
+{
+  "nodes": {
+    "usr_7785c82f-ebe8-425b-9bd8-54e5a8d5ca10": {
+      "id": "usr_7785c82f-ebe8-425b-9bd8-54e5a8d5ca10",
+      "name": "NLP Test User",
+      "label": "User",
+      "properties": {
+        "user_id": "7785c82f-ebe8-425b-9bd8-54e5a8d5ca10",
+        "email": "nlp@test.com"
+      }
+    },
+    "skl_rust": {
+      "id": "skl_rust",
+      "name": "Rust",
+      "label": "Skill",
+      "properties": {
+        "normalized_name": "rust",
+        "category": "Systems",
+        "proficiency": "Beginner"
+      }
+    },
+    "skl_python": {
+      "id": "skl_python",
+      "name": "Python",
+      "label": "Skill",
+      "properties": {
+        "normalized_name": "python",
+        "category": "General",
+        "proficiency": "Advanced"
+      }
+    },
+    "top_backend_development_work": {
+      "id": "top_backend_development_work",
+      "name": "backend development work",
+      "label": "Topic",
+      "properties": {
+        "normalized_name": "backend development work",
+        "category": "General"
+      }
+    },
+    "usr_c03ba4f8-b69f-49a7-8334-a227b588eb5c": {
+      "id": "usr_c03ba4f8-b69f-49a7-8334-a227b588eb5c",
+      "name": "User Alpha",
+      "label": "User",
+      "properties": {
+        "user_id": "c03ba4f8-b69f-49a7-8334-a227b588eb5c",
+        "email": "alpha@test.com"
+      }
+    },
+    "usr_1974c234-cfda-47d5-af21-815cc08353af": {
+      "id": "usr_1974c234-cfda-47d5-af21-815cc08353af",
+      "name": "User Beta",
+      "label": "User",
+      "properties": {
+        "user_id": "1974c234-cfda-47d5-af21-815cc08353af",
+        "email": "beta@test.com"
+      }
+    },
+    "prj_1974c234_secret_project": {
+      "id": "prj_1974c234_secret_project",
+      "name": "Secret Project",
+      "label": "Project",
+      "properties": {
+        "title": "Secret Project",
+        "description": "Beta's secret",
+        "status": "Active",
+        "user_id": "1974c234-cfda-47d5-af21-815cc08353af"
+      }
+    },
+    "fact_c03ba4f8_preferred_language": {
+      "id": "fact_c03ba4f8_preferred_language",
+      "name": "preferred_language: Rust",
+      "label": "Fact",
+      "properties": {
+        "fact_key": "preferred_language",
+        "fact_val": "Rust",
+        "user_id": "c03ba4f8-b69f-49a7-8334-a227b588eb5c",
+        "updated_at": "2026-10-25T16:04:13.879879+00:00"
+      }
+    },
+    "fact_1974c234_preferred_language": {
+      "id": "fact_1974c234_preferred_language",
+      "name": "preferred_language: Go",
+      "label": "Fact",
+      "properties": {
+        "fact_key": "preferred_language",
+        "fact_val": "Go",
+        "user_id": "1974c234-cfda-47d5-af21-815cc08353af",
+        "updated_at": "2026-10-25T16:04:13.885858+00:00"
+      }
+    },
+    "usr_a9861c83-bf68-453c-a9fd-56fdc43fa28b": {
+      "id": "usr_a9861c83-bf68-453c-a9fd-56fdc43fa28b",
+      "name": "Graph User",
+      "label": "User",
+      "properties": {
+        "user_id": "a9861c83-bf68-453c-a9fd-56fdc43fa28b",
+        "email": "graph_endpoints_88b9399b-38c2-48f7-aa9b-9cd9e0958b15@test.com"
+      }
+    },
+    "prj_a9861c83_apollo": {
+      "id": "prj_a9861c83_apollo",
+      "name": "Apollo",
+      "label": "Project",
+      "properties": {
+        "title": "Apollo",
+        "description": "Spacecraft",
+        "status": "Active",
+        "user_id": "a9861c83-bf68-453c-a9fd-56fdc43fa28b"
+      }
+    },
+    "skl_propulsion": {
+      "id": "skl_propulsion",
+      "name": "Propulsion",
+      "label": "Skill",
+      "properties": {
+        "normalized_name": "propulsion",
+        "category": "Aero",
+        "proficiency": "Expert"
+      }
+    }
+  },
+  "links": [
+    {
+      "source": "usr_7785c82f-ebe8-425b-9bd8-54e5a8d5ca10",
+      "target": "skl_python",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Advanced",
+        "category": "General"
+      }
+    },
+    {
+      "source": "usr_7785c82f-ebe8-425b-9bd8-54e5a8d5ca10",
+      "target": "top_backend_development_work",
+      "label": "INTERESTED_IN",
+      "properties": {}
+    },
+    {
+      "source": "usr_1974c234-cfda-47d5-af21-815cc08353af",
+      "target": "prj_1974c234_secret_project",
+      "label": "OWNS_PROJECT",
+      "properties": {}
+    },
+    {
+      "source": "usr_c03ba4f8-b69f-49a7-8334-a227b588eb5c",
+      "target": "skl_rust",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Expert",
+        "category": "Systems"
+      }
+    },
+    {
+      "source": "usr_1974c234-cfda-47d5-af21-815cc08353af",
+      "target": "skl_rust",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Beginner",
+        "category": "Systems"
+      }
+    },
+    {
+      "source": "usr_c03ba4f8-b69f-49a7-8334-a227b588eb5c",
+      "target": "fact_c03ba4f8_preferred_language",
+      "label": "HAS_PREFERENCE",
+      "properties": {
+        "key": "preferred_language",
+        "value": "Rust"
+      }
+    },
+    {
+      "source": "usr_1974c234-cfda-47d5-af21-815cc08353af",
+      "target": "fact_1974c234_preferred_language",
+      "label": "HAS_PREFERENCE",
+      "properties": {
+        "key": "preferred_language",
+        "value": "Go"
+      }
+    },
+    {
+      "source": "usr_a9861c83-bf68-453c-a9fd-56fdc43fa28b",
+      "target": "prj_a9861c83_apollo",
+      "label": "OWNS_PROJECT",
+      "properties": {}
+    },
+    {
+      "source": "usr_a9861c83-bf68-453c-a9fd-56fdc43fa28b",
+      "target": "skl_propulsion",
+      "label": "HAS_SKILL",
+      "properties": {
+        "proficiency": "Expert",
+        "category": "Aero"
+      }
+    }
+  ]
+}
